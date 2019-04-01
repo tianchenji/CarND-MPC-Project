@@ -8,7 +8,7 @@ using CppAD::AD;
 size_t N = 10;  // how many timesteps into the future
 double dt = .1; // duration
 
-// hhh This value assumes the model presented in the classroom is used.
+// This value assumes the model presented in the classroom is used.
 //
 // It was obtained by measuring the radius formed by running the vehicle in the
 // simulator around in a circle with a constant steering angle and velocity on a
